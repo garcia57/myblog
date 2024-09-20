@@ -61,6 +61,7 @@ exclude:
 # --------------------
 title: "Jekyll Origin"
 category_dir: 'category'
+remote_theme: jekyll-origin
 
 colors:
   #light-mode colors
